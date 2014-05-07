@@ -1,0 +1,14 @@
+C:\Users\Staci\development\tests\playvideo\Bin\Debug\ApplicationIcon.png
+C:\Users\Staci\development\tests\playvideo\Bin\Debug\Background.png
+C:\Users\Staci\development\tests\playvideo\Bin\Debug\Cordova.Example.dll
+C:\Users\Staci\development\tests\playvideo\Bin\Debug\Cordova.Example.pdb
+C:\Users\Staci\development\tests\playvideo\Bin\Debug\AppManifest.xaml
+C:\Users\Staci\development\tests\playvideo\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Staci\development\tests\playvideo\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\Staci\development\tests\playvideo\obj\Debug\App.g.cs
+C:\Users\Staci\development\tests\playvideo\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\Staci\development\tests\playvideo\obj\Debug\MainPage.g.cs
+C:\Users\Staci\development\tests\playvideo\obj\Debug\Cordova.Example.g.resources
+C:\Users\Staci\development\tests\playvideo\obj\Debug\Cordova.Example.dll
+C:\Users\Staci\development\tests\playvideo\obj\Debug\Cordova.Example.pdb
+C:\Users\Staci\development\tests\playvideo\obj\Debug\XapCacheFile.xml
