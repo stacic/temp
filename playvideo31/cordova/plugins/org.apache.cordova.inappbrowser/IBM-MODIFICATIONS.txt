@@ -1,0 +1,17 @@
+CVE-2014-0072 Security patch for iOS InAppBrowser
+
+- Cordova RTC work item number: 38660
+- Apache Cordova Jira issue: none
+- Markmail or Google Group reference: none
+- Product PMR: none
+- cherry-pick 26702cb0720c5c394b407c23570136c53171fa55 security patch to this branch 
+
+Webview methods need to run on UI thread starting in Android 4.3
+
+- Cordova RTC work item number: 31731
+- Apache Cordova Jira issue: https://issues.apache.org/jira/browse/CB-4858
+- Markmail or Google Group reference: none
+- Product PMR: none
+- backport CB-4858 to this branch. Without it, starting in Android
+  4.3 the InAppBrowser may fail to open, and calls to window.open for the 
+  InAppBrowser would throw a Java exception. 
